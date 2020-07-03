@@ -1,4 +1,10 @@
 ### Hi there 👋
+Great to see you here, here you will find a lot of codes. Yes! codes.  Just kidding. My name is ..., you already know.  
+And Here are few things about me -
+- 🌱 I’m currently learning Data Science at Udacity.com
+- 🔭 I'm a Full-Stack Developer.
+- 💬 Ask me about node.js, microservices, architecture and stuffs.
+- ⚡ Fun fact: I like reading code, I spent most of my time reading 1000s of lines of codes. 
 
 <!--
 **shahidcodes/shahidcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
