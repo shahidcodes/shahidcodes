@@ -26,5 +26,5 @@ I have spent ~9 years architecting and building software products and client sol
 
 ## Contact
 
-LinkedIn: shahidkamal
-X: @shahidcodes
+LinkedIn: [shahidkamal](https://www.linkedin.com/in/shahidkamal/details/experience/)
+X: [@shahidcodes](https://x.com/shahidcodes)
