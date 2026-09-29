@@ -1,30 +1,18 @@
 # Shahid Kamal
 
-**AI Product & Solutions Architect · Founder of TestOptim**
+Backend and platform engineer. 9 years building production systems in payments, logistics, ERP and AI, most recently leading engineering at a product studio. Looking for a senior or staff engineering role on a product team.
 
-I design and build production SaaS and AI systems — from architecture and infrastructure to agents, APIs, integrations, and reliability.
+## Selected work
 
-Currently building **TestOptim**, an autonomous QA platform for teams shipping software quickly with AI and modern development workflows.
+Most of this is private company code.
 
-## What I work on
+- **Tijarah360** (CTO): offline-first ERP for retail and restaurants in Saudi Arabia, around 2,000 merchants and 8,000 orders a day. 9+ services on Kubernetes (OCI). Built a CDC sync pipeline from on-device SQLite through Kafka to MongoDB, and moved order processing onto Kafka to absorb order bursts.
+- **TestOptim**: autonomous QA platform where browser agents explore a web app, then generate and run end-to-end tests. Multi-LLM agent pipeline with code-backed assertions, plus a tenant-isolated public API and MCP server.
+- **Wajeeh** (tech lead): Saudi freight marketplace, 500+ active trucks. Escrow payments released on delivery, load matching, live GPS tracking, ZATCA e-invoicing.
+- **Raajjé Online** (sole engineer): rebuilt an ISP's payment backend to close reconciliation gaps between the gateway and billing records, and migrated a 200 GB billing database to a new platform.
 
-- AI agents and AI-enabled products
-- SaaS architecture and backend systems
-- Cloud infrastructure and production reliability
-- Developer tooling and automation
-- Technical audits, modernization, and system rescue
+## Stack
 
-## How I work
+TypeScript / Node.js, NestJS, PostgreSQL, MongoDB, Redis, Kafka, Kubernetes, Docker, GitHub Actions. Recently: LLM agent harnesses, browser agents, Playwright.
 
-I have spent ~9 years architecting and building software products and client solutions. I use AI-native engineering workflows heavily, but my focus is the part AI does not remove: system design, trade-offs, reliability, verification, and ownership of the final outcome.
-
-## Current
-
-- Building: **TestOptim**
-- Exploring: agentic software engineering, browser agents, evaluation, autonomous QA, AI-assisted architecture
-- Available for: architecture consulting, AI/SaaS implementation, production rescue, and fractional technical leadership
-
-## Contact
-
-LinkedIn: [shahidkamal](https://www.linkedin.com/in/shahidkamal/details/experience/)
-X: [@shahidcodes](https://x.com/shahidcodes)
+[LinkedIn](https://www.linkedin.com/in/shahidkamal/)
