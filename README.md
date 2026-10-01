@@ -4,7 +4,7 @@ Full-stack engineer. 9 years building production products end to end (frontend, 
 
 ## Selected work
 
-Most of this is private company code.
+
 
 - **TestOptim**: autonomous QA platform where browser agents explore a web app, then generate and run end-to-end tests. Built the Next.js product and marketing site, the NestJS API and MCP server, and the multi-LLM agent pipeline with code-backed assertions.
 - **Tijarah360** (CTO): offline-first ERP and point-of-sale system for retail and restaurants in Saudi Arabia, around 2,000 merchants and 8,000 orders a day. Built the Kitchen Display System and a CDC sync pipeline from on-device SQLite through Kafka to MongoDB, running as 9+ services on Kubernetes.
